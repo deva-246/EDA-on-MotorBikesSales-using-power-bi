@@ -1,5 +1,9 @@
 # EDA-on-MotorBikesSales-using-power-bi
 
+    1. Sales Based Dashboard
+
+    2. Product Based Dashboard
+
 ## Fields in the sales dataset of the year 2021 and 2022 
 
     1. Date
